@@ -10,6 +10,6 @@
     <li>Soon...</li>
 </ul>
 <p align="center">
-<a href="https://discord.gg/bVGYrSmU">
+<a href="https://discord.gg/bVGYrSmU" target="_blank">
 <img src="https://img.shields.io/discord/308323056592486420?logo=discord" alt="My Discord server"></a>
 </p>
