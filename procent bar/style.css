@@ -1,0 +1,65 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.main {
+  height: 1000px;
+  width: 100%;
+}
+.container {
+  margin-left: 500px;
+  border: 3px solid black;
+  border-radius: 10px;
+  margin-top: 40px;
+  width: 500px;
+}
+.ptext {
+  font-size: 30px;
+}
+.load {
+  margin-top: 20px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 15px;
+  margin-bottom: 40px;
+  width: 340px;
+}
+.loader {
+  height: inherit;
+  width: 0px;
+  border-radius: 15px;
+  background-color: lime;
+}
+.loader2 {
+    border: 1px solid lime;
+    background-color: lime;
+}
+.wrap {
+  display: flex;
+  justify-content: center;
+}
+.divinput {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+.input {
+  padding: 10px 0px;
+}
+.divbutton {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.button {
+  padding: 7px 25px;
+}
+.spandiv {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+.spantext {
+  font-size: 20px;
+  color: red;
+}
